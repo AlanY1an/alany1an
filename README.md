@@ -55,3 +55,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/AlanYian/AlanYian/output/snake.svg" alt="Snake animation" />
+
+###
