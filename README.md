@@ -2,22 +2,16 @@
 
 <p><sub><i>Learning over time.</i></sub></p>
 
----
+<br />
+
+<p><sub>Software &nbsp;·&nbsp; AI &nbsp;·&nbsp; Systems</sub></p>
+
+<br />
 
 <p>
-  <code>Software</code> &nbsp;
-  <code>AI</code> &nbsp;
-  <code>Systems</code>
+  <sub>↗ <a href="https://www.alanyian.com/">Digital Garden</a> &nbsp;&nbsp; ↗ <a href="https://www.whyian.dev/">Portfolio</a></sub>
 </p>
 
----
-
-<p>
-  ↗&nbsp;<a href="https://www.alanyian.com/">Digital Garden</a>
-  &nbsp;&nbsp;&nbsp;
-  ↗&nbsp;<a href="https://www.whyian.dev/">Portfolio</a>
-</p>
-
----
+<br />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlanY1an&theme=transparent&hide_border=true" />
