@@ -14,3 +14,7 @@ Software · AI · Systems
 <a href="https://www.alanyian.com/">Digital Garden</a> ·
 <a href="https://www.whyian.dev/">Portfolio</a>
 </p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlanY1an&theme=transparent&hide_border=true" />
+</p>
