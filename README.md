@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Alan" width="900">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-alan-dark.svg">
+  <img src="assets/header-alan-light.svg" alt="Alan" width="900">
 </picture>
 
 <p align="center">
