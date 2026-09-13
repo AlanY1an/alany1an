@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Yian / Alan</title>
+  <title id="title">Alan</title>
   <desc id="desc">Quiet typography beside a fine-line orbital illustration in sage green.</desc>
   <rect width="900" height="240" rx="12" fill="#151C18"/>
   <path d="M48 192H852" stroke="#34433A"/>
   <path d="M48 192H112" stroke="#A4B89C" stroke-width="2"/>
-  <text x="48" y="139" fill="#E5EBDF" font-family="Georgia, 'Times New Roman', serif" font-size="70" letter-spacing="-2">Yian <tspan fill="#728675" font-style="italic">/</tspan> Alan</text>
+  <text x="48" y="139" fill="#E5EBDF" font-family="Georgia, 'Times New Roman', serif" font-size="70" letter-spacing="-2">Alan</text>
   <g stroke="#6D826C" stroke-width="1.2">
     <ellipse cx="732" cy="112" rx="91" ry="37" transform="rotate(-35 732 112)"/>
     <ellipse cx="732" cy="112" rx="91" ry="37" transform="rotate(35 732 112)"/>

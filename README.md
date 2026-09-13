@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Yian / Alan" width="900">
+  <img src="assets/header-light.svg" alt="Alan" width="900">
 </picture>
 
 <p align="center">
@@ -15,6 +15,4 @@
 
 <p align="center">
   <a href="https://www.alanyian.com/">Digital Garden ↗</a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://www.whyian.dev/">Portfolio ↗</a>
 </p>
